@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-###Json server installation
+### Json server installation
 ```
 npm i json-server
 ```
